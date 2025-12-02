@@ -17,13 +17,4 @@ This project demonstrates how computer vision and deep learning can be combined 
 
 ---
 
-## 🚀 Demo
 
-### ▶️ Run the application locally
-
-Make sure all dependencies are installed (see [Requirements](#-requirements)).
-
-Then, in your terminal:
-
-```bash
-python app.py
